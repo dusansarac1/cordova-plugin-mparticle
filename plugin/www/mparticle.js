@@ -47,6 +47,13 @@ var mparticle = {
     AddToWishlist: 9,
     RemoveFromWishlist: 10
   },
+  
+  UserIdentityType: {
+    CustomerId: 'customerId',
+    Email: 'email',
+    Facebook: 'facebook',
+    Other: 'other',
+  },
 
   PromotionActionType: {
     View: 0,
