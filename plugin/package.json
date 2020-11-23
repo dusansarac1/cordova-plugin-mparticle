@@ -3,7 +3,7 @@
   "version": "2.0.2",
   "description": "Cordova plugin for mParticle",
   "homepage": "https://www.mparticle.com",
-  "repository": "mParticle/cordova-plugin-mparticle",
+  "repository": "dusansarac1/cordova-plugin-mparticle",
   "license": "Apache-2.0",
   "main": "www/mparticle.js",
   "scripts": {
